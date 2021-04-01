@@ -7,6 +7,10 @@
   <img alt="Image of a robot behind a notebook." src="https://raw.githubusercontent.com/MessiasJunio/bugtracker/main/public/img/main-screen.png">
 </p>
 
+## About
+- A Bug Tracker that the users will be able to report the problems and bugs of the applications.
+- Controls the data using an online Google SpreadSheet
+- In case of a critital issue type, will be able send a direct E-mail
 ## What is inside?
 
 This project uses lot of stuff as:
