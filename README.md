@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Image of a robot behind a notebook." src="https://raw.githubusercontent.com/MessiasJunio/bugtracker/main/public/img/mainScreen.png">
+  <img alt="Image of a robot behind a notebook." src="https://raw.githubusercontent.com/MessiasJunio/bugtracker/main/public/img/main-screen.png">
 </p>
 
 ## What is inside?
