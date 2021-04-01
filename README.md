@@ -12,14 +12,21 @@
 This project uses lot of stuff as:
 
 - [EJS](https://ejs.co/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Google Sheets](https://developers.google.com/sheets/api)
 - [Send Grid](https://sendgrid.com/)
 
+##
+  A bugtracker web application
 ## Getting Started
 
 ```bash
 
 npm start
+
+# OR
+
+yarn start
 
 ```
 
